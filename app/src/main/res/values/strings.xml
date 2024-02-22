@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AssetManagement</string>
+
+    <string name="text_launch_tips">为了让您更好地使用XXX，请充分阅读并理解《隐私政策》和《用户协议》。
+        \n1、我们会遵循隐私政策收集、使用信息，但不会因同意了隐私政策而进行强制捆绑式的信息收集。
+        \n2、我们会在您使用XXX时，申请系统存储、消息通知和定位权限，用于存储缓存数据、推送通知和获取位置信息。</string>
+</resources>
